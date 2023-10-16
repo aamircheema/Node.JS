@@ -18,3 +18,4 @@ console.log(path.parse(__filename).base);
 
 //Concatinate paths
 console.log(path.join(__dirname, "test", "hello.html"));
+//C:\Users\HP\Desktop\node.js\reference\test\hello.html
